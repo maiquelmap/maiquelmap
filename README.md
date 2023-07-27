@@ -7,7 +7,7 @@
 
 **Projeto 1:**
 <br>
-Nome Papel_pedra_tesoura
+Nome: Papel_pedra_tesoura
 <br>
 Backend - Java
 <br>
