@@ -1,6 +1,6 @@
 <h1>Hi! Meu nome é Maiquel Alves Peres🙋🏽‍♂️</h1>
 
-- 📚 Estou estudando  Java Backend.
+- 📚 Estou estudando  Java Backend e React native Frontend.
 -  Aprendi usar o FIGMA.
 <div>
 <a href= https://www.linkedin.com/notifications/?filter=all>
